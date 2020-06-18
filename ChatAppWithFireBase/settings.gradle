@@ -1,0 +1,2 @@
+rootProject.name='ChatAppWithFireBase'
+include ':app'
